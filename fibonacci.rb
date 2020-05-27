@@ -15,8 +15,6 @@ def fib(n)
     end
 end
 
-
-
 def fib_rec(n)
     return [0] if n == 1
     return [0,1] if n == 2
